@@ -25,6 +25,8 @@ Formula for Correlation matrix:
 corr_matrix = sec_returns.corr()
 
 ```
+![image](https://user-images.githubusercontent.com/128286364/230365343-71bec0b5-5fcd-43c5-a9a8-312c1e609238.png)
+
 
 2. **Portfolio Volatility:**
 Volatility is a measure of how much an asset or portfolio's returns fluctuate over time. Portfolio volatility is calculated by taking the standard deviation of the portfolio's returns. Higher volatility implies higher risk.
